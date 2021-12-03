@@ -38,8 +38,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   List<dynamic> paramsNames = [];
 
-  // cityPickerParams
-
   @override
   Widget build(BuildContext context) {
    return Scaffold(

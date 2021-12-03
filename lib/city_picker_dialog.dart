@@ -5,9 +5,6 @@ import 'package:flutter_custom_dialog/flutter_custom_dialog.dart';
 import 'util/city_response.dart';
 import 'util/data.dart';
 
-/// create by crius on 2021/3/7
-/// email:criusker@163.com
-/// 学校选择器
 YYDialog cityPickerDialog(BuildContext context, params, Function(CityResponse) onConfirm) {
   return YYDialog().build(context)
     ..gravity = Gravity.bottom

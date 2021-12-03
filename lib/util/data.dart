@@ -1,8 +1,5 @@
 import 'city_response.dart';
 
-/// create by crius on 2021/3/23
-/// email:criusker@163.com
-
 List<CityResponse> provinceList1 = [
   CityResponse(id: 0, name: "浙江省"),
   CityResponse(id: 1, name: "上海市"),
